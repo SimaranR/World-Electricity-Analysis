@@ -1,4 +1,4 @@
-# World Electricity Analysis Python Project
+# World Electricity Analysis
 
 ## Overview
 
