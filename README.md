@@ -74,8 +74,7 @@ The project structure is organized as follows:
 - `Cleaned_csv/`: Contains the datasets used for analysis.
 - `Convert.ipynb/`: Jupyter notebooks for data analysis, modeling, and visualization.
 - `World_bank-electricity.ipynb/`: Custom scripts or code used for data collection and preprocessing.
-- `main.py`: The main script to execute the project.
-- `requirements.txt`: Lists all the required dependencies for the project.
+- `Dashboard.xlsx`: The visulizationa and Dashboard of the project.
 
 ## Contributing
 
