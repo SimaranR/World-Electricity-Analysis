@@ -71,9 +71,9 @@ The project relies on data from various sources, including international energy 
 
 The project structure is organized as follows:
 
-- `data/`: Contains the datasets used for analysis.
-- `notebooks/`: Jupyter notebooks for data analysis, modeling, and visualization.
-- `src/`: Custom scripts or code used for data collection and preprocessing.
+- `Cleaned_csv/`: Contains the datasets used for analysis.
+- `Convert.ipynb/`: Jupyter notebooks for data analysis, modeling, and visualization.
+- `World_bank-electricity.ipynb/`: Custom scripts or code used for data collection and preprocessing.
 - `main.py`: The main script to execute the project.
 - `requirements.txt`: Lists all the required dependencies for the project.
 
